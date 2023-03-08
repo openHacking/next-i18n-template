@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-pro",
+  "name": "next-i18n-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "accept-language": "^3.0.18",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.3",
+    "i18next": "^22.4.11",
+    "i18next-resources-to-backend": "^1.1.2",
     "next": "13.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0"
   }
 }
